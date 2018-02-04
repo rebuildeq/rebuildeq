@@ -1,0 +1,11 @@
+10
+tar,tar
+cst,cst
+sim,sebilis_chr
+sif,sebilis_chr
+mmy,mmy_chr
+lmf,lmf_chr
+lmm,lmm_chr
+mmf,mmf_chr
+mmm,mmm_chr
+spi,kaesora_chr

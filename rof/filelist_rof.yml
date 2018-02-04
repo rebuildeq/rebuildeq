@@ -1,0 +1,43 @@
+version: 20171117cf5758075657a63de5ce2fe5c9860366
+downloadprefix: http://rebuildeq.com/patch/
+downloads:
+- name: rof\Resources\GlobalLoad.txt
+  md5: b0585263285fafc683defce922bde67d
+  date: "20171029"
+  size: 2142
+- name: rof\Resources\GlobalLoad_chr.txt
+  md5: 2028ab5b7ce133ba4f0802b84038c26c
+  date: "20171029"
+  size: 173
+- name: rof\Resources\loadscreen.jpg
+  md5: 20723fe8fb617f3d7746ca78517c0fb3
+  date: "20171029"
+  size: 714166
+- name: rof\delete.txt
+  md5: f79747779c30a154c92a85dbb8772a9c
+  date: "20171029"
+  size: 12
+- name: rof\eqemupatcher.png
+  md5: 657c461906f6c0127dc66112fb2f479d
+  date: "20171029"
+  size: 407836
+- name: rof\frontiermtns_chr.txt
+  md5: 20cca2d20e30ce1c348b95386ad09d7a
+  date: "20171029"
+  size: 136
+- name: rof\hateplaneb_chr.txt
+  md5: ceb0cc45d2839f43fbc0d0c7d66dff30
+  date: "20171029"
+  size: 287
+- name: rof\hole_chr.txt
+  md5: 128e65e5ae4c04dfddbac45abc620a54
+  date: "20171029"
+  size: 74
+- name: rof\lavastorm_chr.txt
+  md5: 2fdf636625b7c51092d9ea9961baff71
+  date: "20171029"
+  size: 230
+- name: rof\rathemtn_chr.txt
+  md5: b8b29926ee286e159239dfacea43154c
+  date: "20171029"
+  size: 331
