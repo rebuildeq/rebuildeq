@@ -1,5 +1,5 @@
-version: 20171112070ad72ebf95bfd4169ccb8353909b23
-downloadprefix: http://rebuildeq.com/patch/rof/
+version: 2018020698e86c34d780163fa80963b5057e6877
+downloadprefix: https://raw.githubusercontent.com/rebuildeq/rebuildeq/master/
 downloads:
 - name: rof\Resources\GlobalLoad.txt
   md5: b0585263285fafc683defce922bde67d
